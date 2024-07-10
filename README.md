@@ -5,7 +5,7 @@
 💡 &nbsp;Gosto de sempre me desafiar.\
 🎓 &nbsp;Graduando de Engenharia da Computação na Universidade Federal do Pará.\
 🌱 &nbsp;Atualmente interessado em IA e CyberSec e usando o pouco tempo restante para Game Dev.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;Gosto de jogar FFXIV no meu tempo livre e faço cosplay quando dá.\
 ✉️ &nbsp;In case you want to contact me: plbsa.dev@gmail.com.\
 📄 &nbsp;Aqui ficará meu futuro currículo.
 
