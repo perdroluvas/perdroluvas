@@ -3,16 +3,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 # Olá, sou Pedro Lucas Batista dos Santos Araújo! 👋  
 
-💡 &nbsp;Adoro resolver problemas e explorar novos desafios.  
-
 🎓 &nbsp;**Graduando em Engenharia da Computação** na Universidade Federal do Pará (UFPA).  
 🌱 &nbsp;Atualmente focado em **Cibersegurança**, **Backend** e aprendendo **IA** no tempo livre.  
 🖥️ &nbsp;Desenvolvendo projetos em **Python**, **C**, **TypeScript** e **FastAPI**.  
 🛠️ &nbsp;Também tenho experiência com **Linux**, **Next.js**, **FastAPI**, e estou explorando **Haskell**.  
 
 👨‍💻 &nbsp;**Contribuições recentes:**  
-- **Simroel**: Simulador para topologias de rede com FastAPI.   
-- **ZooSoft**: Diferenciar cães saudáveis de cães com sarna.  
+- **Simroel**: Backend do simulador para topologias de rede(FastAPI).   
+- **ZooSoft**: Utilizando Visão Computacional para diferenciar cães saudáveis de cães não saudáveis.  
 
 🎮 &nbsp;No tempo livre passo tempo com os que amo.  
 🎭 &nbsp;Atualmente focado em aprender novas linguagens e tecnologias.  
