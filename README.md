@@ -1,11 +1,11 @@
 <!-- ## 👋 &nbsp;Sou Pedro! | I'm Pedro! | Je suis Pedro! -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-# Olá, sou Pedro Lucas Batista dos Santos Araújo! 👋  
+# Olá, sou o Perdro! 👋  
 
-🎓 &nbsp;**Graduando em Engenharia da Computação** na Universidade Federal do Pará (UFPA).  
+🎓 &nbsp;**Graduando em Engenharia da Computação** na Universidade Federal do Pará (UFPA).  d
 🌱 &nbsp;Atualmente focado em **Cibersegurança**, **Backend** e aprendendo **IA** no tempo livre.  
-🖥️ &nbsp;Desenvolvendo projetos em **Python**, **C**, **TypeScript** e **FastAPI**.  
+🖥️ &nbsp;Desenvolvendo projetos em **Python**, **C**, **TypeScript** e **Bun**.  
 🛠️ &nbsp;Também tenho experiência com **Linux**, **Next.js**, **FastAPI**, e estou explorando **Haskell**.  
 
 👨‍💻 &nbsp;**Contribuições recentes:**  
@@ -20,9 +20,6 @@
 - **LinkedIn**: [[Meu perfil](https://www.linkedin.com/in/plbsa/)](#)    
 
 📄 &nbsp;Em breve, meu **currículo** estará disponível aqui.  
-
-Vamos colaborar e criar algo incrível! 🚀  
-
 
 ### 🛠 &nbsp;Tech Stack
 
