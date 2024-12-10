@@ -1,22 +1,41 @@
 <!-- ## 👋 &nbsp;Sou Pedro! | I'm Pedro! | Je suis Pedro! -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+# Olá, sou Pedro Lucas Batista dos Santos Araújo! 👋  
 
-💡 &nbsp;Gosto de sempre me desafiar.\
-🎓 &nbsp;Graduando de Engenharia da Computação na Universidade Federal do Pará.\
-🌱 &nbsp;Atualmente interessado em IA e CyberSec e usando o pouco tempo restante para Game Dev.\
-✍️ &nbsp;Gosto de jogar FFXIV no meu tempo livre e faço cosplay quando dá.\
-✉️ &nbsp;In case you want to contact me: plbsa.dev@gmail.com.\
-📄 &nbsp;Aqui ficará meu futuro currículo.
+💡 &nbsp;Adoro resolver problemas e explorar novos desafios.  
+
+🎓 &nbsp;**Graduando em Engenharia da Computação** na Universidade Federal do Pará (UFPA).  
+🌱 &nbsp;Atualmente focado em **IA**, **Cibersegurança** e aprendendo **Game Development** no tempo livre.  
+🖥️ &nbsp;Desenvolvendo projetos em **Python**, **Rust**, **TypeScript** e **FastAPI**.  
+🛠️ &nbsp;Também tenho experiência com **Linux**, **Next.js**, **Tailwind**, e estou explorando **Go**.  
+
+👨‍💻 &nbsp;**Contribuições recentes:**  
+- **Simroel**: Simulador para topologias de rede com FastAPI.   
+- **ZooSoft**: Diferenciar cães saudáveis de cães com sarna.  
+
+🎮 &nbsp;No tempo livre passo tempo com os que amo.  
+🎭 &nbsp;Atualmente focado em aprender novas linguagens e tecnologias.  
+
+🌐 &nbsp;**Contato**:  
+- **Email**: [plbsa.dev@gmail.com](mailto:plbsa.dev@gmail.com)  
+- **LinkedIn**: [[Meu perfil](https://www.linkedin.com/in/plbsa/)](#)    
+
+📄 &nbsp;Em breve, meu **currículo** estará disponível aqui.  
+
+Vamos colaborar e criar algo incrível! 🚀  
+
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
