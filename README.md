@@ -6,9 +6,9 @@
 💡 &nbsp;Adoro resolver problemas e explorar novos desafios.  
 
 🎓 &nbsp;**Graduando em Engenharia da Computação** na Universidade Federal do Pará (UFPA).  
-🌱 &nbsp;Atualmente focado em **IA**, **Cibersegurança** e aprendendo **Game Development** no tempo livre.  
-🖥️ &nbsp;Desenvolvendo projetos em **Python**, **Rust**, **TypeScript** e **FastAPI**.  
-🛠️ &nbsp;Também tenho experiência com **Linux**, **Next.js**, **Tailwind**, e estou explorando **Go**.  
+🌱 &nbsp;Atualmente focado em **Cibersegurança**, **Backend** e aprendendo **IA** no tempo livre.  
+🖥️ &nbsp;Desenvolvendo projetos em **Python**, **C**, **TypeScript** e **FastAPI**.  
+🛠️ &nbsp;Também tenho experiência com **Linux**, **Next.js**, **FastAPI**, e estou explorando **Haskell**.  
 
 👨‍💻 &nbsp;**Contribuições recentes:**  
 - **Simroel**: Simulador para topologias de rede com FastAPI.   
