@@ -54,12 +54,6 @@
 
  **Ver todas as certificações:** [Credly Profile](https://www.credly.com/users/pedro-lucas-batista-dos-santos-araujo)
 
-###  &nbsp;Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perdroluvas&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdroluvas&theme=catppuccin_mocha&layout=compact&hide_border=true"/>
-</p>
 
 ### &nbsp;Vamos nos Conectar
 
