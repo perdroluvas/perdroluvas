@@ -2,10 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
- &nbsp;**Estudante de Engenharia da Computação** na Universidade Federal do Pará (UFPA) - 5º semestre  
+ &nbsp;**Estudante de Engenharia da Computação** na Universidade Federal do Pará (UFPA) - 6º semestre  
  &nbsp;**Estagiário de Desenvolvimento** na [CI&T](https://ciandt.com/), atuando na plataforma BEES (Ambev)  
  &nbsp;Apaixonado por **Inteligência Artificial**, **Análise de Dados**  
- &nbsp;Aprendiz em **Python** para IA/ML no laboratório LEA(UFPA)
  &nbsp;Desenvolvendo primariamente no estágio com **Java**, **Kotlin**, **Spring Boot** e **TypeScript/React**  
  &nbsp;Certificado em **AWS Cloud Foundations** e **Cisco CCNA**  
 
