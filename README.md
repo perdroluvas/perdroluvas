@@ -1,18 +1,17 @@
-# Olá, sou o Pedro Lucas! 👋
+# Eae :D
 
-### 👨🏻‍💻 &nbsp;Sobre Mim
+### &nbsp;Sobre Mim
 
  &nbsp;**Estudante de Engenharia da Computação** na Universidade Federal do Pará (UFPA) - 6º semestre  
  &nbsp;**Estagiário de Desenvolvimento** na [CI&T](https://ciandt.com/), atuando na plataforma BEES (Ambev)  
- &nbsp;Apaixonado por **Inteligência Artificial**, **Análise de Dados**  
- &nbsp;Desenvolvendo primariamente no estágio com **Java**, **Kotlin**, **Spring Boot** e **TypeScript/React**  
+ &nbsp;Experiência em: **Java**, **Kotlin**, **Spring Boot** e **TypeScript/React**  
  &nbsp;Certificado em **AWS Cloud Foundations** e **Cisco CCNA**  
 
-### 🚀 &nbsp;Projetos em Destaque
+### &nbsp;Projetos desenvolvidos na UFPA.
 
  &nbsp;**[ZooSoft]**: Sistema de classificação de patologias usando Visão Computacional (CNN com TensorFlow)  
- &nbsp;**[ONG]**: Optical Networking Gym, trabalhando junto com meus colegas para produzir resultados com heurísticas e algoritmos para a publicação de artigos em problemas de RMSA.  
- &nbsp;**Multímetro IoT Acessível**: Sistema integrado (Hardware + Software) com feedback em tempo real para acessibilidade  
+ &nbsp;**Multímetro IoT Acessível**: Sistema integrado (Hardware + Software) com feedback em tempo real para acessibilidade
+ &nbsp;**Novacta**: Sistema para avaliacão de alimentos perecíveis e monitoramento de vendas com série temporal. 
 
 ### 🛠 &nbsp;Stack Tecnológica
 
@@ -52,9 +51,6 @@
 [![Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/users/pedro-lucas-batista-dos-santos-araujo)
 
  **Ver todas as certificações:** [Credly Profile](https://www.credly.com/users/pedro-lucas-batista-dos-santos-araujo)
-
-
-### &nbsp;Vamos nos Conectar
 
 <p align="left">
 <a href="https://www.linkedin.com/in/plbsa/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
