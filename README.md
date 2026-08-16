@@ -2,9 +2,9 @@
 
 ### &nbsp;Sobre Mim
 
- &nbsp;**Estudante de Engenharia da Computação** na Universidade Federal do Pará (UFPA) - 6º semestre  
- &nbsp;**Estagiário de Desenvolvimento** na [CI&T](https://ciandt.com/), atuando na plataforma BEES (Ambev)  
- &nbsp;Experiência em: **Java**, **Kotlin**, **Spring Boot** e **TypeScript/React**  
+ &nbsp;**Estudante de Engenharia da Computação** na Universidade Federal do Pará (UFPA) - 7º semestre  
+ &nbsp;**Estagiário** na [CI&T](https://ciandt.com/)
+ &nbsp;Experiência em: **Java**, **Kotlin**, **Python**, **Spring Boot** e **TypeScript/React**  
  &nbsp;Certificado em **AWS Cloud Foundations** e **Cisco CCNA**  
 
 ### &nbsp;Projetos desenvolvidos na UFPA.
