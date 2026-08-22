@@ -13,7 +13,7 @@
  &nbsp;**Multímetro IoT Acessível**: Sistema integrado (Hardware + Software) com feedback em tempo real para acessibilidade
  &nbsp;**Novacta**: Sistema para avaliacão de alimentos perecíveis e monitoramento de vendas com série temporal. 
 
-### 🛠 &nbsp;Stack Tecnológica
+### &nbsp;Stack
 
 **Linguagens & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
